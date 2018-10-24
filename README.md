@@ -3,6 +3,10 @@ This small nerd project is a finance bot which gives currency exchange rates and
 
 Once the bot script is started it listens to the messages sent directly to her or the messages written in the groups the bot were added previuosly.
 
-It simply checks the messages whether they contain currency symbols like EURTRY, USDEUR etc. bundles them and make a 1forge request. Then writes back the response to the corresponding chat.
+It simply checks the messages whether they contain currency symbols like EURTRY, USDEUR etc. bundles them and make a 1forge request. Then writes back the response to the corresponding chat. See 2 sample runs:
+
+![Single Quote Query](https://raw.githubusercontent.com/sukruozan/telegram-finance-bot/master/Screen%20Shot%202018-10-24%20at%2011.58.44.png)
+
+![Multiple Quote Query](https://raw.githubusercontent.com/sukruozan/telegram-finance-bot/master/Screen%20Shot%202018-10-24%20at%2011.58.54.png)
 
 
